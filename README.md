@@ -1,3 +1,3 @@
-# Linear-regression
+# MultiLinear-regression
 Linear Regressions
 supervised leanring
